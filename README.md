@@ -10,4 +10,4 @@ This algorithm utilizes a pretrained convolutional neural network model called V
 
 ## Related Information
 
-According to TensorFlow tutorial, the modern approach to this problem is to train a model to generate the stylized image directly(similar to CycleGAN).
+According to the [TensorFlow tutorial](https://www.tensorflow.org/tutorials/generative/style_transfer), the modern approach to this problem is to train a model to generate the stylized image directly(similar to CycleGAN).
